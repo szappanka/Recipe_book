@@ -1,0 +1,10 @@
+Beer cl 1
+Brandy cl 1
+Gin cl 1
+Rum cl 1
+Tequila cl 1
+Vodka cl 1
+Whisky cl 1
+Wine cl 1
+Grenadine cl 0
+Soda dl 0

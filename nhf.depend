@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1589052565 source:c:\users\panka\desktop\prog2_szp\base.cpp
+	"Base.h"
+
+1589141455 c:\users\panka\desktop\prog2_szp\base.h
+	"Ingredient.h"
+	"memtrace.h"
+
+1589447126 c:\users\panka\desktop\prog2_szp\ingredient.h
+	<iostream>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1589112530 c:\users\panka\desktop\prog2_szp\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1589142517 source:c:\users\panka\desktop\prog2_szp\choice.cpp
+	"Choice.h"
+
+1589302190 c:\users\panka\desktop\prog2_szp\choice.h
+	<iostream>
+	"memtrace.h"
+
+1589288526 source:c:\users\panka\desktop\prog2_szp\database.cpp
+	"Database.h"
+
+1589209748 c:\users\panka\desktop\prog2_szp\database.h
+	<iostream>
+	<string>
+	<fstream>
+	"Ingredient.h"
+	"Base.h"
+	"Recipe.h"
+	"linked_list.h"
+	"memtrace.h"
+
+1589208887 c:\users\panka\desktop\prog2_szp\recipe.h
+	<iostream>
+	<string>
+	<fstream>
+	"Item.h"
+	"Base.h"
+	"linked_list.h"
+	"memtrace.h"
+
+1589540923 c:\users\panka\desktop\prog2_szp\item.h
+	<iostream>
+	<string>
+	"Ingredient.h"
+	"memtrace.h"
+
+1589550754 c:\users\panka\desktop\prog2_szp\linked_list.h
+	<iostream>
+	"memtrace.h"
+
+1589052659 source:c:\users\panka\desktop\prog2_szp\ingredient.cpp
+	"Ingredient.h"
+
+1589447583 source:c:\users\panka\desktop\prog2_szp\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Ingredient.h"
+	"Base.h"
+	"Item.h"
+	"Recipe.h"
+	"Database.h"
+	"linked_list.h"
+	"Choice.h"
+	"memtrace.h"
+
+1589287843 source:c:\users\panka\desktop\prog2_szp\recipe.cpp
+	"Recipe.h"
+
+1589289457 source:c:\users\panka\desktop\prog2_szp\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+

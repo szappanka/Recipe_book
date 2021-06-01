@@ -1,0 +1,159 @@
+3 Gin_Tonic
+4 cl Gin 1
+2 dl Tonic
+1 slice lime
+
+3 White_Lady
+4 cl Gin 1
+2 cl Tripple_Sec
+2 cl lime_juice
+
+6 Tom_Collins
+4 cl Gin 1
+4 cl lime_juice
+2 cl sugar_syrup
+10 cl Soda
+1 slice lime
+1 pc cocktail_cherry
+
+3 Kamikaze
+3 cl Vodka 1
+3 cl lime_juice
+3 cl Cointreau
+
+3 Godfather
+4 cl Whisky 1
+2 cl Amaretto
+3 pc icecube
+
+3 Pentecostal
+4.5 cl Whisky 1
+4.5 cl Vodka
+17.5 cl 7Up
+
+3 Whiskey_Sour
+4.5 cl Whisky 1
+3 cl lime_juice
+1.5 cl sugar_syrup
+
+4 Cosmopolitan
+4.5 cl Vodka 1
+3 cl cranberry_juice
+1 cl lime_juice
+1 cl Cointreau
+
+3 Paradise
+3.5 cl Gin 1
+2 cl Apricot_brandy
+1.5 cl orange_juice
+
+3 Margarita
+3.5 cl Tequila 1
+2 cl Cointreau
+1.5 cl lime_juice
+
+3 Tequila_Sunrise
+4.5 cl Tequila 1
+1.5 cl Grenadine
+9 cl orange_juice
+
+2 Brave_Bull
+6 cl Tequila 1
+3 cl Kahlua
+
+2 Boilermaker
+5 dl Beer 1
+4 cl Whisky
+
+2 Depth_Charge
+4 dl Beer 1
+2 cl Drambuie
+
+3 Moscow_Mule
+3 dl Beer 1
+2 cl lime_juice
+4 cl Vodka
+
+2 Sake_Bomb
+5 dl Beer 1
+3 cl Sake
+
+2 Dog's_Nose
+2.5 dl Beer 1
+1 cl Gin
+
+4 B2C2
+4 cl Brandy 1
+4 cl Benedictine
+4 cl Cointreau
+9 cl champagne
+
+4 Brandy_Daisy
+3 cl Brandy 1
+2 cl lime_juice
+2 cl Grenadine
+3 drop Chartreuse
+
+6 Brandy_Eggnog
+2 cl Brandy 1
+2 cl Milk
+1 cl sugar_syrup
+1 cl singlecream
+1 pc egg_yolk
+2 pinch nutmeg
+
+3 Horse's_Neck
+4 cl Brandy 1
+11 cl ginger
+1 drop Angostura_bitter
+
+5 After_Dark
+4 cl Rum 1
+2 cl orange_liqueur
+2 cl coffee
+1 cl sugar_syrup
+1 pinch nutmeg
+
+4 Air_Mail
+4 cl Rum 1
+1 cl lime_juice
+1 tsp honey
+12 cl champagne
+
+3 Pina_Colada
+3 cl Rum 1
+3 cl coconut_syrup
+9 cl pineapple_juice
+
+6 Mojito
+4 cl Rum 1
+4 cl sugar_syrup
+1 slice lime
+6 pc mint
+2 dl Soda
+3 pc icecube
+
+5 Hugo
+10 cl Wine 1
+2 cl elderflower_cordial
+2 dl Soda
+3 pc mint
+1 slice lime
+
+5 Cinderella
+2 cl Grenadine 0
+5 cl pineapple_juice
+5 cl lemon_juice
+5 cl orange_juice
+1 dl Soda
+
+4 Rosy_Pippin
+2 cl Grenadine 0
+1 slice lemon
+20 cl apple_juice
+5 cl ginger
+
+3 Shirley_Temple
+2 cl Grenadine 0
+10 cl orange_juice
+5 cl ginger
